@@ -1,3 +1,5 @@
 # Squawker
+
 *course project*
-## Udacity: Advanced Android App Development 
+
+Advanced Android App Development - Udacity
